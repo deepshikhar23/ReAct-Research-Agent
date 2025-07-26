@@ -1,0 +1,10 @@
+# requirements.txt
+
+streamlit
+google-generativeai
+langchain-google-genai
+langchain
+langchain-community
+langchainhub
+tavily-python
+langchain-experimental
